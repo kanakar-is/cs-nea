@@ -1,0 +1,87 @@
+[
+  {
+    "type": "Star",
+    "name": "Sun",
+    "fieldstrength": 10,
+    "radius": 60,
+    "temperature": 1,
+    "systype": 0
+  },
+  {
+    "type": "TerrestrialPlanet",
+    "name": "Mercury",
+    "lifelevel": 0,
+    "radius": 10,
+    "waterlevel": 0,
+    "temperature": 2,
+    "moonnumber": 0,
+    "lm": false,
+    "distancefromstar": 80
+  },
+  {
+    "type": "TerrestrialPlanet",
+    "name": "Venus",
+    "lifelevel": 15,
+    "radius": 25,
+    "waterlevel": 4,
+    "temperature": 2,
+    "moonnumber": 0,
+    "lm": false,
+    "distancefromstar": 130
+  },
+  {
+    "type": "TerrestrialPlanet",
+    "name": "Earth",
+    "lifelevel": 20,
+    "radius": 30,
+    "waterlevel": 6,
+    "temperature": 1,
+    "moonnumber": 1,
+    "lm": false,
+    "distancefromstar": 200
+  },
+  {
+    "type": "TerrestrialPlanet",
+    "name": "Mars",
+    "lifelevel": 20,
+    "radius": 20,
+    "waterlevel": 0,
+    "temperature": 2,
+    "moonnumber": 2,
+    "lm": false,
+    "distancefromstar": 250
+  },
+  {
+    "type": "GaseousPlanet",
+    "name": "Jupiter",
+    "radius": 60,
+    "moonnumber": 6,
+    "temperature": 1,
+    "distancefromstar": 320
+  },
+  {
+    "type": "GaseousPlanet",
+    "name": "Saturn",
+    "radius": 55,
+    "moonnumber": 8,
+    "temperature": 1,
+    "distancefromstar": 420
+  },
+  {
+    "type": "GaseousPlanet",
+    "name": "Uranus",
+    "radius": 25,
+    "moonnumber": 3,
+    "temperature": 0,
+
+    "distancefromstar": 500
+  },
+  {
+    "type": "GaseousPlanet",
+    "name": "Neptune",
+    "radius": 23,
+    "moonnumber": 2,
+    "temperature": 0,
+    "distancefromstar": 570
+  }
+]
